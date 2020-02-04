@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_view">
+    <sys_ui_action_view action="DELETE">
+        <sys_class_name>sys_ui_action_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 05:34:31</sys_created_on>
+        <sys_id>4adaee681b3200105d6edd3cdc4bcbc9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My UI Action.Global</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_ui_action display_value="My UI Action">435b247b1ba600105d6edd3cdc4bcbbf</sys_ui_action>
+        <sys_ui_view display_value="Global" name="global">b1b17b829333310063d3941e867ffbdf</sys_ui_view>
+        <sys_update_name>sys_ui_action_view_4adaee681b3200105d6edd3cdc4bcbc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 05:34:55</sys_updated_on>
+        <visibility>exclude</visibility>
+    </sys_ui_action_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9b966af3dbbaf344387021c40596192e</instance_id>
+        <instance_name>dev89697</instance_name>
+        <name>sys_ui_action_view_4adaee681b3200105d6edd3cdc4bcbc9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_view"><sys_ui_action_view action="INSERT_OR_UPDATE"><sys_class_name>sys_ui_action_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-03 05:34:31</sys_created_on><sys_id>4adaee681b3200105d6edd3cdc4bcbc9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>My UI Action.Global</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_ui_action display_value="My UI Action">435b247b1ba600105d6edd3cdc4bcbbf</sys_ui_action><sys_ui_view display_value="Global" name="global">b1b17b829333310063d3941e867ffbdf</sys_ui_view><sys_update_name>sys_ui_action_view_4adaee681b3200105d6edd3cdc4bcbc9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-03 05:34:55</sys_updated_on><visibility>exclude</visibility></sys_ui_action_view></record_update>]]></payload>
+        <payload_hash>931333580</payload_hash>
+        <record_name>exclude</record_name>
+        <reverted_from/>
+        <source>fbb18be31b2200105d6edd3cdc4bcbdd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 05:34:55</sys_created_on>
+        <sys_id>c4fa2ae81b3200105d6edd3cdc4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170098b67a40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 05:34:55</sys_updated_on>
+        <type>UI View Action</type>
+        <update_guid>00fa2ae8d832001044b88d77e7a1f6cb</update_guid>
+        <update_guid_history>00fa2ae8d832001044b88d77e7a1f6cb:931333580,4edaea6c413200104c6e6342999a89f0:-1045172966</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 05:43:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action_view">sys_ui_action_view</sys_db_object>
+        <sys_id>7a62739c80d04a3f9ee0f71242ce7299</sys_id>
+        <sys_metadata>4adaee681b3200105d6edd3cdc4bcbc9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My UI Action.Global</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="My UI Action">435b247b1ba600105d6edd3cdc4bcbbf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_action_view_4adaee681b3200105d6edd3cdc4bcbc9</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_view_4adaee681b3200105d6edd3cdc4bcbc9">c4fa2ae81b3200105d6edd3cdc4bcbcb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 05:43:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

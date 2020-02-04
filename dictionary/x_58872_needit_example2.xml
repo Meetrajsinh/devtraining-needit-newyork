@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Example2" max_length="40" name="x_58872_needit_example2" type="collection">
+        <element label="Description" mandatory="true" max_length="40" name="description" type="string"/>
+        <element label="URL" mandatory="true" max_length="40" name="url" type="string"/>
+    </element>
+</database>
